@@ -14,14 +14,10 @@ html {
 }
 
 body{
-  /*background: url("https://ihot-wallpapers.net/wp-content/uploads/2018/03/game-of-thrones-photos-hd.jpg");*/
-  /*background-repeat: no-repeat;*/
-  /*background-size: cover;*/
   min-height: 100vh;
 }
 
 .App {
-  /*width: 35%;*/
   margin: auto;
   background: white;
   min-height: 100vh;
